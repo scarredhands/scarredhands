@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate software developer from India. My focus is on creating solutions that solve real-world problems and improve user experiences</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQUvj_4yE9NoW3nLvB0uonhouS0QswRjvEgg&s">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scarredhands&label=Profile%20views&color=0e75b6&style=flat" alt="scarredhands" /> </p>
 
