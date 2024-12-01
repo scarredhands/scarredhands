@@ -12,7 +12,7 @@
 - 📝 I regularly write articles on https://scarredhandsbyyj.blogspot.com/
 - 💬 Ask me about **Flutter, Mobile App Development, Node.js, Machine Learning, Deep Learning**
 - 📫 How to reach me **jenayatika@gmail.com , j.yatika@iitg.ac.in**
-- ⚡ Fun fact **I have a good taste in music**
+- ⚡ Fun fact **I have a good taste in music :)**
 
 <h3 align="left">Connect with me:</h3>
 
