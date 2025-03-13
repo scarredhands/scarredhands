@@ -22,9 +22,6 @@
 
 <a href="https://kaggle.com/yatikajena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yatikajena" height="30" width="40" /></a>
 
-<a href="https://codeforces.com/profile/failure71311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="failure71311" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/yatikaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yatikaj" height="30" width="40" /></a>
 
 </p>
 
