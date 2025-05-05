@@ -1,8 +1,6 @@
-
-
 <h1 align="center">Hi 👋, I'm Yatika Jena</h1>
 
-<h3 align="center">A passionate software developer from India. My focus is on creating solutions that solve real-world problems and improve user experiences</h3>
+<h3 align="center">A student at IIT Guwahati and an aspiring software developer passionate about building impactful tech solutions for real-world problems.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
