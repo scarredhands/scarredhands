@@ -10,6 +10,7 @@
 - 📫 How to reach me **jenayatika@gmail.com , j.yatika@iitg.ac.in**
 - 📝 I write poems on https://scarredhandsbyyj.blogspot.com/
 - ⚡ Fun fact **I have a good taste in music :)**
+- I find rhythm in both verses and code...poetry lets me feel, while dev lets me build.
 
 <h3 align="left">Connect with me:</h3>
 
