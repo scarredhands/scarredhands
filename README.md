@@ -9,7 +9,7 @@
 - 💬 Ask me about **Flutter, Mobile App Development, Node.js, Machine Learning, Deep Learning**
 - 📫 How to reach me **jenayatika@gmail.com , j.yatika@iitg.ac.in**
 - 📝 I write poems on https://scarredhandsbyyj.blogspot.com/
-- ⚡ Fun fact **I have a good taste in music :)**
+- ⚡ Fun fact about me is that I try to find beauty in both bugs and metaphors. **I have a good taste in music too:)**
 - I find rhythm in both verses and code...poetry lets me feel, while dev lets me build.
 
 <h3 align="left">Connect with me:</h3>
