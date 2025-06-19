@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scarredhands&label=Profile%20views&color=0e75b6&style=flat" alt="scarredhands" /> </p>
 
-- 🌱 I’m currently learning **React Native, Machine Learning and AI**
+- 🌱 I’m currently learning Machine Learning and AI**
 - 💬 Ask me about **Flutter, Mobile App Development, Node.js, Machine Learning, Deep Learning**
 - 📫 How to reach me **jenayatika@gmail.com , j.yatika@iitg.ac.in**
 - 📝 I write poems on https://scarredhandsbyyj.blogspot.com/
